@@ -1,35 +1,9 @@
-.hearder{
-    background-color: #830083;
-    img{
-        width: 150px;
-    }
-    box-shadow: 3px 5px 13px -5px #000000;
-}
-.lista-unica{
-    button{
-        margin-left: 5px;
-    }
-    position: absolute;
-    top: 50px;
-    right: 75px;
+.header{
+    margin-bottom: 50px;
     color: #fff;
-    font-size: 22px;
-
-}
-.mat-tab-label {
-    font-size: large;
-}
-.example-card {
-    max-width: 400px;
-    margin-top: 15px;
-    margin-left: 30px;
-  }
-  
-  .example-header-image {
-    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
-    background-size: cover;
-    .vendedor{
-        width: 40px;
-        border-radius: 50%;
+    .menu-button{
+        button{
+            margin-left: 20px;
+        }
     }
-  }
+}
